@@ -1,10 +1,10 @@
 Temas:
- - Grafos2
+ - Algoritmos Ambiciosos
  
-# Grafos2_LeetCodeGrafos2
+# Ambiciosos_LeetCode
 
 **Número da Lista**: 9<br>
-**Conteúdo da Disciplina**: Grafos 2<br>
+**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -13,19 +13,22 @@ Temas:
 | 23/2022952  |  Leonardo de Souza Takehana |
 
 ## Sobre 
-O projeto é contemplado por resolver 3 questões da plataforma LeetCode, sendo 2 dífíceis e 1 médio. A definição de médio, fácil e difícil é concebida pela própria plataforma.
+O projeto é contemplado por resolver 4 questões da plataforma LeetCode, sendo 2 dífíceis e 2 médios. A definição de médio, fácil e difícil é concebida pela própria plataforma.
 
-Para os exercícios serem realizados, usamos o algorito de Dijkstra com heap e o algoritmo de Prim com pequenas modificações, além da implementação do algoritmo de SCC para que pudessem receber o Accept como solução para o desafio.
+Para os exercícios serem realizados, usamos algoritos ambiciosos, como o Interval Scheduling, para que pudessem receber o Accept como solução para o desafio.
 
 ## Screenshots
-Questão: [Médio - 1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/submissions/1468806097/)
-![alt text](1786.png)
+Questão: [Médio - 714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/?envType=problem-list-v2&envId=greedy)
+![alt text](714.png)
 
-Questão: [Difícil - 1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/submissions/1468806169/?envType=problem-list-v2&envId=strongly-connected-component)
-![alt text](1489.png)
+Questão: [Médio - 621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/?envType=problem-list-v2&envId=greedy)
+![alt text](621.png)
 
-Questão: [Difícil - 3123. Find Edges in Shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/submissions/1468809861/?envType=problem-list-v2&envId=graph)
-![alt text](3123.png)
+Questão: [Difícil - 630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)
+![alt text](630.png)
+
+Questão: [Difícil - 1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)
+![alt text](1402.png)
 
 
 ## Instalação 

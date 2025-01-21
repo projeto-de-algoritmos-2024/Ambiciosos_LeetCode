@@ -1,10 +1,10 @@
 Temas:
- - Algoritmos Ambiciosos
+ - Greed
  
 # Ambiciosos_LeetCode
 
-**Número da Lista**: 9<br>
-**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
+**Número da Lista**: 11<br>
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -15,7 +15,7 @@ Temas:
 ## Sobre 
 O projeto é contemplado por resolver 4 questões da plataforma LeetCode, sendo 2 dífíceis e 2 médios. A definição de médio, fácil e difícil é concebida pela própria plataforma.
 
-Para os exercícios serem realizados, usamos algoritos ambiciosos, como o Interval Scheduling, para que pudessem receber o Accept como solução para o desafio.
+Para os exercícios serem realizados, usamos o algorito de Interval Scheduling, Interval Partitioning, e Heap Priority.
 
 ## Screenshots
 Questão: [Médio - 714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/?envType=problem-list-v2&envId=greedy)

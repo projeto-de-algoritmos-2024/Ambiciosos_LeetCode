@@ -39,7 +39,7 @@ Instalar uma versão lastest stable do python desde de que seja > 3.11.
 ## Uso 
 Para rodar este projeto, basta entrar na raiz do projeto e executar o arquivo referente a questão que se deseja avaliar, por exemplo:
 ```
-python3 1489.FindCriticalAndPseudo-CriticalEdgesInMinimumSpanningTree.py
+python3 714.BestTimetoBuyandSellStockwithTransactionFee.py
 ```
 
 ## Outros
